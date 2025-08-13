@@ -1,2 +1,2 @@
 # my-first-repo
-earning Git
+Learning Git
